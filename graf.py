@@ -3,7 +3,7 @@ import random
 M = [[1000000] * 15 for i in range(15)]
 N = [[0] * 15 for i in range(15)]
 
-for ji in range(28):
+for ji in range(29):
     m = random.randint(1, 15)-1
     n = random.randint(1, 15)-1
     w = random.randint(1, 200)-100
