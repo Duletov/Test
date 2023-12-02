@@ -1,6 +1,7 @@
 import random
 
 M = [[100000] * 15 for i in range(15)]
+
 N = [[0] * 15 for i in range(15)]
 
 for ji in range(29):
